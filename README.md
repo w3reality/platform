@@ -5,10 +5,10 @@
 
 ### Open source VR websites
 
-- minigame - . ([live](https://w3reality.com/visit?v=_github&o=w3reality&r=sdk-example-minigame&m=umd) | [source](https://github.com/w3reality/sdk-example-minigame))
+- minigame - . ([🔥live](https://w3reality.com/visit?v=_github&o=w3reality&r=sdk-example-minigame&m=umd) | [source](https://github.com/w3reality/sdk-example-minigame))
 - genesis - a minimal implementation. ([live](https://w3reality.com/visit?v=_github&o=w3reality&r=genesis) | [source](https://github.com/w3reality/genesis/blob/master/src/index.js))
 - esm module loading - a pedantic example showing how to utilize custom ES modules. ([live]() | [source]())
-- amd module loading - a pedantic example showing how to ustilize custom AMD modules. ([live]() | [source]())
+- amd module loading - a pedantic example showing how to utilize custom AMD modules. ([live]() | [source]())
 
 ### Prototype VR websites in W3Reality
 
@@ -55,7 +55,8 @@ class MyApp extends SDK.App {
 export default MyApp;
 ```
 
-
+## API
+(WIP)
 
 
 
