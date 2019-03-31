@@ -3,6 +3,8 @@
 
 ## Usage
 
+`app.js` below is a minimal VR website implementation using the `SDK.App` class.
+
 ``` js
 const SDK = window.requirejs('w3reality-sdk');
 const THREE = window.THREE;
