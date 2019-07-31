@@ -1,4 +1,4 @@
-# w3reality-sdk.js
+# platform
 (WIP) no public releases available yet
 
 ## Demos
